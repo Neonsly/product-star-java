@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Some bold text 4
-2
+
+more text added
